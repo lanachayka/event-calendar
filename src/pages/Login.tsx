@@ -1,5 +1,5 @@
 const Login: React.FC = () => {
-    return <div>LOGIN</div>
+    return <h1>LOGIN</h1>
 }
 
 export default Login

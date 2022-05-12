@@ -1,8 +1,11 @@
 import './App.css';
+import AppRouter from './components/AppRouter';
 
 const App: React.FC = () => {
   return (
-    <div>Worked</div>
+    <div>
+      <AppRouter />
+    </div>
   );
 }
 
