@@ -2,7 +2,7 @@
   "name": "calendar",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https: //lanachayka.github.io/event-calendar/",
+  "homepage": "https://lanachayka.github.io/event-calendar/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
