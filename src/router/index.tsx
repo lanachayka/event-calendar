@@ -3,8 +3,8 @@ import Event from "../pages/Event"
 import { RouteObject } from "react-router-dom"
 
 export enum RouteNames {
-    LOGIN = 'event-calendar/login',
-    EVENT = '/event-calendar'
+    LOGIN = '/login',
+    EVENT = '/'
 }
 
 export const publicRoutes: RouteObject[] = [
